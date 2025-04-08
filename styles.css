@@ -1,0 +1,35 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid black;
+    font-size: xx-large;
+    width: 800px;
+    margin: 30px auto;
+}
+
+h2 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    font-size: x-large;
+    width: 800px;
+    margin: 50px auto;
+}
+
+.recipe_img {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    display: block;
+}
+
+p,
+ul,
+ol {
+    width: 800px;
+    margin: 50px auto;
+}
+
+
